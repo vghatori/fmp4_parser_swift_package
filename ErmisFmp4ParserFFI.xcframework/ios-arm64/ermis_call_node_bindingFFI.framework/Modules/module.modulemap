@@ -1,0 +1,5 @@
+framework module ermis_call_node_bindingFFI {
+    umbrella header "ermis_call_node_bindingFFI.h"
+    export *
+    module * { export * }
+}
